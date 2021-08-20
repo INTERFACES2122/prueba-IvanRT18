@@ -12,6 +12,7 @@ namespace Aplicacion_de_consola.Clases
         /// <summary>
         /// Variable del nombre de al materia
         /// </summary>
+        /// int x;
         private string nombre;
         private int no_alumnos;
         //definimos como se va a comportar la variable codigo
